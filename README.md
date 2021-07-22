@@ -14,7 +14,6 @@
 - 📄 Know about my experiences [https://saadaf.webaidpro.org/](https://saadaf.webaidpro.org/)
 
 - ⚡ Fun fact **Party and dancing**
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

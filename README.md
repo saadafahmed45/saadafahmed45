@@ -32,5 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadafahmed45&show_icons=true&locale=en&layout=compact" alt="saadafahmed45" /></p>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saadafahmed45)](https://github.com/saadafahmed45/github-readme-stats&theme=radical)
 

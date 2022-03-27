@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Javascript,React,NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://saadaf.webaidpro.org/](https://me-mohammadhaolader.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-mohammadhaolder.netlify.app//](https://dev-mohammadhaolder.netlify.app/)
 
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **mohammadhaolader1@gmail.com**
 
-- 📄 Know about my experiences [https://saadaf.webaidpro.org/](https://me-mohammadhaolader.netlify.app/)
+- 📄 Know about my experiences [https://dev-mohammadhaolder.netlify.app/](https://dev-mohammadhaolder.netlify.app/)
 
 - ⚡ Fun fact **Party and dancing**
 

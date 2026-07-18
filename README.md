@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mohammad+Haolader;Full+Stack+JavaScript+Developer;Next.js+%7C+React+%7C+Node.js;Shopify+Theme+Developer;Building+Digital+Experiences+🚀"/>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF00FF&height=180&section=header&text=Mohammad%20Haolader&fontSize=45&fontColor=ffffff&animation=fadeIn"/>

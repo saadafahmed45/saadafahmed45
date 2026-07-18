@@ -37,46 +37,32 @@ Building scalable, high-performance web applications and custom Shopify experien
 
 </div>
 
-# 🧬 About Me
 
-```javascript
-const developer = {
-    name: "Mohammad Haolader",
-    role: [
-        "Full Stack JavaScript Developer",
-        "Shopify Theme Developer"
-    ],
+# 💫 About Me
 
-    stack: {
-        frontend: [
-            "Next.js",
-            "React.js",
-            "Tailwind CSS"
-        ],
+💻 Full-Stack JavaScript Developer & Shopify Theme Developer from Bangladesh 🇧🇩
 
-        backend: [
-            "Node.js",
-            "Express.js",
-            "MongoDB"
-        ],
+I specialize in building modern, scalable, and production-ready web applications using **Next.js, React.js, Node.js, Express.js, MongoDB**, and developing custom Shopify themes using **Liquid, Shopify CLI, and modern frontend technologies**.
 
-        ecommerce: [
-            "Shopify Liquid",
-            "Shopify Theme Development"
-        ]
-    },
+I enjoy creating fast, responsive, user-friendly digital experiences with clean architecture, reusable components, secure backend systems, and optimized performance.
 
-    passion: [
-        "Clean Architecture",
-        "Performance Optimization",
-        "Modern UI/UX",
-        "E-commerce Solutions"
-    ],
+---
 
-    goal:
-    "Building scalable products that solve real problems 🚀"
-}
-```
+# 🚀 What I Focus On
+
+- ⚡ High Performance Web Applications
+- 🛒 Full Stack E-commerce Development
+- 🛍 Shopify Theme Development
+- 🎨 Custom Shopify Store Design & Customization
+- 📱 Responsive UI/UX Development
+- 🔐 Authentication & Security
+- 🚀 Website Performance Optimization
+- 📊 REST API Development
+- ☁️ Cloud Image Management
+- 🏗 Scalable Application Architecture
+
+
+---
 
 ---
 

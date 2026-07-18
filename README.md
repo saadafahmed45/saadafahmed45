@@ -65,7 +65,7 @@ const developer = {
 
 ---
 
-# 🛠 Neon Tech Arsenal
+# 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -117,37 +117,7 @@ const developer = {
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛒 TechX Shop
-
-<img src="https://img.shields.io/badge/E--Commerce-00F7FF?style=for-the-badge"/>
-
-A production-ready full-stack eCommerce platform.
-
-### Built With:
-
-```
-Next.js
-Express.js
-MongoDB
-Firebase Auth
-Tailwind CSS
-Cloudinary
-```
-
-### Features:
-
-⚡ Fast Product Loading
-🛍 Product Management
-📦 Order Management
-🔐 Secure Authentication
-📊 Admin Dashboard
-📱 Fully Responsive UI
-
----
-
-## 🛍 Shopify Theme Projects
+## 🛍 Shopify Theme Development
 
 <img src="https://img.shields.io/badge/Shopify_Developer-96BF48?style=for-the-badge"/>
 

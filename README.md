@@ -37,6 +37,9 @@ Building scalable, high-performance web applications and custom Shopify experien
 
 
 
+
+</div>
+
 # 💫 About Me
 
 💻 Full-Stack JavaScript Developer & Shopify Theme Developer from Bangladesh 🇧🇩
@@ -62,9 +65,6 @@ I enjoy creating fast, responsive, user-friendly digital experiences with clean 
 
 
 ---
-
-</div>
-
 
 ---
 

@@ -6,6 +6,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF00FF&height=180&section=header&text=Mohammad%20Haolader&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
+
+### Full-Stack JavaScript Developer | Shopify Theme Developer | Next.js • React • Node.js • Express.js
+
+<p>
+Building scalable, high-performance web applications and custom Shopify experiences with modern technologies.
+</p>
+
+<p>
+
+<a href="https://dev-mohammadhaolder.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammadhaolader1@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mohammad-h-47aa54216">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohammadhaolader">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mohammadhaolader&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 # 🧬 About Me

@@ -35,7 +35,6 @@ Building scalable, high-performance web applications and custom Shopify experien
 
 <img src="https://komarev.com/ghpvc/?username=mohammadhaolader&label=Profile%20Views&color=0e75b6&style=flat" />
 
-</div>
 
 
 # 💫 About Me
@@ -63,6 +62,9 @@ I enjoy creating fast, responsive, user-friendly digital experiences with clean 
 
 
 ---
+
+</div>
+
 
 ---
 

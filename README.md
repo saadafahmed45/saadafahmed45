@@ -1,17 +1,18 @@
 <div align="center">
 
-# Hi 👋, I'm Mohammad Haolader
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mohammad+Haolader;Full+Stack+JavaScript+Developer;Next.js+%7C+React+%7C+Node.js+Developer;Building+Modern+High+Performance+Web+Applications;Always+Learning+Something+New+🚀" />
 
-### Full-Stack JavaScript Developer | Next.js • React • Node.js • Express.js • MongoDB
+<h3>
+Full Stack JavaScript Developer from Bangladesh 🇧🇩
+</h3>
 
 <p>
-Building scalable, high-performance web applications with modern JavaScript technologies.
+
+Passionate about building scalable, production-ready web applications with modern technologies.
+
 </p>
 
 <p>
-<a href="https://dev-mohammadhaolder.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="mailto:mohammadhaolader1@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -21,9 +22,13 @@ Building scalable, high-performance web applications with modern JavaScript tech
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://dev-mohammadhaolder.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mohammadhaolader&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -31,140 +36,164 @@ Building scalable, high-performance web applications with modern JavaScript tech
 
 # 💫 About Me
 
-💻 Full-Stack JavaScript Developer from Bangladesh.
+```js
+const mohammad = {
+    location: "Bangladesh 🇧🇩",
 
-I specialize in building modern, scalable, and production-ready web applications using the MERN ecosystem and Next.js.
+    role: "Full Stack JavaScript Developer",
 
-I enjoy solving real-world problems through clean architecture, reusable components, secure backend systems, and optimized frontend performance.
+    code: [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express.js"
+    ],
 
-### What I focus on
+    currentlyBuilding: "TechX Shop",
 
-- ⚡ High Performance Web Applications
-- 🛒 Full Stack E-commerce Development
-- 📱 Responsive UI & Modern UX
-- 🔐 Authentication & Security
-- 🚀 Performance Optimization
-- 📊 REST API Development
-- ☁️ Cloud Image Management
-- 🎨 Beautiful Frontend Architecture
+    architecture: [
+        "REST API",
+        "MVC",
+        "Server Components",
+        "App Router",
+        "JWT Authentication"
+    ],
+
+    databases: [
+        "MongoDB",
+        "Firebase"
+    ],
+
+    passions: [
+        "E-commerce",
+        "Performance",
+        "Clean UI",
+        "Scalable Applications"
+    ],
+
+    funFact:
+        "I enjoy building products that people actually use 🚀"
+}
+```
 
 ---
 
-# 🚀 Current Tech Stack
+# 🚀 Current Focus
+
+- 🔥 Building production-ready Full Stack applications
+
+- 🛒 Advanced E-commerce Development
+
+- ⚡ Next.js Performance Optimization
+
+- 🔐 Authentication & Security
+
+- ☁️ Cloudinary Image Management
+
+- 📦 REST API Development
+
+- 📱 Responsive UI/UX
+
+- 🎯 Clean Code Architecture
+
+---
+
+# 🛠 Tech Stack
 
 ## Frontend
 
-- Next.js (App Router)
-- React.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- Shadcn UI
-- Framer Motion
-- TanStack Query (React Query)
-- Zustand
-- Axios
-- React Hook Form
-- Zod
-- Redux Toolkit
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,bootstrap"/>
+
+</p>
 
 ---
 
 ## Backend
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Firebase Authentication
-- Firebase Admin SDK
-- JWT Authentication
-- REST API
-- Multer
-- Cloudinary
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+
+</p>
 
 ---
 
 ## Tools
 
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
-- Photoshop
-- Vercel
-- Netlify
-- Linux
-- npm
+<p>
 
----
-
-# 🛠 Languages & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,redux,git,github,vercel,vscode,figma,photoshop,postman,npm,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,photoshop,vercel,netlify,npm,linux"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🛒 TechX Shop
+## 🛒 TechX Shop
 
-Production-ready Full Stack E-commerce Platform
+Production Ready Full Stack E-commerce Platform
 
-- Next.js 15
-- Express.js
-- MongoDB
-- Firebase Authentication
+### Features
+
+- Modern UI
+
+- Responsive Design
+
 - Admin Dashboard
-- Product Management
+
+- Authentication
+
+- Product CRUD
+
 - Order Management
-- Responsive UI
+
+- Firebase Auth
+
+- MongoDB
+
 - Performance Optimized
 
----
-
-### 💼 Portfolio Website
-
-Modern developer portfolio showcasing projects, skills, and experience.
+- SEO Friendly
 
 ---
 
-# 📫 Connect With Me
+## 💼 Portfolio Website
 
-<p align="left">
+Personal portfolio showcasing projects, experience and skills.
 
-<a href="mailto:mohammadhaolader1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
+---
 
-<a href="https://linkedin.com/in/mohammad-h-47aa54216">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+# 📈 GitHub Stats
 
-<a href="https://github.com/mohammadhaolader">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadhaolader&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhaolader&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 📊 Activity Graph
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhaolader&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -174,16 +203,48 @@ Modern developer portfolio showcasing projects, skills, and experience.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadhaolader&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </p>
 
 ---
 
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:mohammadhaolader1@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://linkedin.com/in/mohammad-h-47aa54216">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+# 💻 Quote
+
+> "First, solve the problem. Then, write clean and scalable code."
+
+---
+
 <div align="center">
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+### ⭐ If you like my work, consider giving a star to my repositories!
 
-⭐ Thanks for visiting my profile!
+🚀 Thanks for visiting my profile.
 
 </div>
